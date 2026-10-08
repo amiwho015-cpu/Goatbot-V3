@@ -1,4 +1,4 @@
-const { checkLiveCookie } = require("neokex-fca");
+const { checkLiveCookie } = require("fca-nx");
 
 /**
  * Validate a Facebook session.
